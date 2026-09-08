@@ -19,7 +19,7 @@
 ---
 
 ## 📌 프로젝트
-- 🚀 [TCP Tech-Articles] - [TCP 웹사이트에 개발 관련 기사 크롤링하여 요약 제공하는 페이지를 만듬]
+- 🚀 [TCP Tech-Articles (https://teamcrazyperformance.com/tech-articles)] - [TCP 웹사이트에 개발 관련 기사 크롤링하여 요약 제공하는 페이지를 만듬]
 - 🚀 [프로젝트 이름] - [한 줄 설명]
 - 🚀 [프로젝트 이름] - [한 줄 설명]
 
