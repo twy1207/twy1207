@@ -26,7 +26,7 @@
 ---
 
 ## 📊 GitHub 활동
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=twy1207&show_icons=true)
+[![twy1207's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=twy1207&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=twy1207)
 
